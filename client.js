@@ -86,7 +86,7 @@ employees.forEach((element) => {
          newObj.name +
          " Bonus Percentage (as decimal): " +
          newObj.bonusPercentage +
-         " Total Bonus " +
+         " Total Bonus $" +
          newObj.bonusTotal +
          " Total Compensation: $" +
          newObj.compensationTotal +
