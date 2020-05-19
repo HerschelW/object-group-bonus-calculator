@@ -1,3 +1,9 @@
+$(document).ready(function () {
+   $("#show").click(function () {
+      $(".hiding").toggle("slide");
+   });
+});
+
 const employees = [
    {
       name: "Atticus", //CONCLUSION: 9%
